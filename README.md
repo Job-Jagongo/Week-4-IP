@@ -1,2 +1,3 @@
 # Week-4-IP
-Moringa School Week 4 IP. Job Jagongo
+Inaugurated in Paris France, Autolib was one of the best electric car sharing service companies. The company was operated by the Ballore Industrial group to complement the city bike sharing scheme. The company closed shop in 2018 after 7 years of operation.  It operated a fleet of all electric bluecars for public use on a paid subscription basis. It employed a citywide network of parking and charging stations where customers would go and pick the cars use them then drop them after the time has elapsed. There had been an increased number in the registered bluecars for the service as well as an increased subscribers for the service. 
+The objective is to identify the most popular hour of the day for picking up a shared electric car (Bluecar) in the city of Paris over the month of April 2018.
